@@ -15,8 +15,8 @@ product:
   msrp: '65'
   percent_off: 35%
   savings: $25!
-  require_Billing_Address: false
-  require_Shipping_Address: false
+  require_Billing_Address: true
+  require_Shipping_Address: true
 deal:
   img_path: /img/product3.jpg
   gallery:
@@ -49,16 +49,15 @@ company:
   state: CO
   zip: 80202
   country: USA
-  phone: null
+  phone: 909-749-8277
   website: 'http://example.com'
   latlng: '39.733536,-104.992611'
   twitter: twitter
   facebook: facebook
-  instagram: null
-  linkedin: null
-  youtube: null
+  instagram: instagram
+  linkedin: linkedin
+  youtube: youtube
 show_related: true
 
 ---
-
 
