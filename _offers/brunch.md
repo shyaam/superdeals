@@ -1,6 +1,6 @@
 ---
 layout: deal
-name: brunch
+name: Lunch
 title: Brunch
 permalink: /
 description: >-
@@ -60,11 +60,4 @@ company:
 show_related: true
 
 ---
-
-
-
-
-
-
-
 
