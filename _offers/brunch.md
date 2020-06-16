@@ -2,7 +2,7 @@
 layout: deal
 name: Lunch
 title: Brunch
-permalink: /
+permalink: /lunch/
 description: >-
   Discover why everyone is calling our brunch the best place to eat in the
   morning.  Now you can bring your loved one to join us for a great discount!
