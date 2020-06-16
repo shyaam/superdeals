@@ -1,7 +1,7 @@
 ---
 layout: deal
 name: brunch
-title: Couples Brunch
+title: Brunch
 permalink: /
 description: >-
   Discover why everyone is calling our brunch the best place to eat in the
@@ -60,6 +60,8 @@ company:
 show_related: true
 
 ---
+
+
 
 
 
